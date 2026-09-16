@@ -1,0 +1,17 @@
+D:\IDM Computing\C# programming\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+D:\IDM Computing\C# programming\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+D:\IDM Computing\C# programming\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+D:\IDM Computing\C# programming\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojResolveAssemblyReference.cache
+D:\IDM Computing\C# programming\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Login.resources
+D:\IDM Computing\C# programming\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+D:\IDM Computing\C# programming\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.Cache
+D:\IDM Computing\C# programming\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+D:\IDM Computing\C# programming\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+D:\IDM Computing\C# programming\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Dashboard.resources
+D:\IDM Computing\C# programming\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Rooms.resources
+D:\IDM Computing\C# programming\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Admins.resources
+D:\IDM Computing\C# programming\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Bookings.resources
+D:\IDM Computing\C# programming\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.CheckIn.resources
+D:\IDM Computing\C# programming\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.CheckOut.resources
+D:\IDM Computing\C# programming\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Customers.resources
+D:\IDM Computing\C# programming\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Register.resources
